@@ -27,14 +27,14 @@ For implementers, EIPs are a convenient way to track the progress of their imple
 
 There are three types of EIP:
 
--   A **Standard Track EIP** describes any change that affects most or all implementations, such as a change to the the network protocol, proposed application standards/conventions, or any change or addition that affects the interoperability of applications. Furthermore Standard EIPs can be broken down into the following categories.
+-   A **Standard Track EIP** describes any change that affects most or all implementations, such as a change to the network protocol, proposed application standards/conventions, or any change or addition that affects the interoperability of applications. Furthermore Standard EIPs can be broken down into the following categories.
     -   **Core** - improvements relevant to “core dev” discussions.
     -   **Networking** - includes improvements around improvements to network protocol specifications.
     -   **Interface** - includes improvements around client [API/RPC] specifications and standards, and also certain language-level standards like method names and [contract ABIs]. The label “interface” aligns with the [interfaces repo] and discussion should primarily occur in that repository before an EIP is submitted to the EIPs repository.
     -   **Application** - application-level standards and conventions, including contract standards such as token standards, URI schemes, library/package formats, and wallet formats.
 
 -   An **Informational EIP** describes a design issue, or provides general guidelines or information to the community, but does not propose a new feature. Informational EIPs do not necessarily represent community consensus or a recommendation, so users and implementers are free to ignore Informational EIPs or follow their advice.
--   A **Meta EIP** describes a process or proposes a change to (or an event in) a process. Process EIPs are like Standards Track EIPs but apply to areas other than the protocol itself. They may propose an implementation, but not to the codebase; they often require community consensus; unlike Informational EIPs, they are more than recommendations, and users are typically not free to ignore them. Examples include procedures, guidelines, changes to the decision-making process, and changes to the tools or environment used in development. Any meta-EIP is also considered a Process EIP.
+-   A **Meta EIP** describes a process or proposes a change to (or an event in) a process. Process EIPs are similar to Standards Track EIPs but apply to areas other than the protocol itself. They may propose an implementation, but not to the codebase; they often require community consensus; unlike Informational EIPs, they are more than recommendations, and users are typically not free to ignore them. Examples include procedures, guidelines, changes to the decision-making process, and changes to the tools or environment used in development. Any meta-EIP is also considered a Process EIP.
 
 ### EIP Work Flow
 
@@ -176,7 +176,7 @@ The current EIP editors are
 
 ` * Eric Muyser (@ericmuyser)`
 
-` * Walid Habboul (@walid_wah)`
+` * Walid Al Habboul (@walid_wah)`
 
 ### EIP Editor Responsibilities and Workflow
 
