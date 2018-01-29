@@ -1,0 +1,1 @@
+When opening a pull request to submit a new EIP, please use the suggested template: https://github.com/hyperbridge/EIPs/blob/master/EIP-X.md
