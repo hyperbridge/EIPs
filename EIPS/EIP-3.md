@@ -29,7 +29,7 @@ Game developers can create project proposals to notify Blockhub users of their i
 
 ### Contributors
 
-Blockhub users can review project proposals and contribute cryptocurrency to projects that they support; in doing so, they are considered "contributors" of that particular project. As a contributor, they are entitled to rewards/incentives, as outlined in their particular contribution tier, at the successful completion of the project. Furthermore, contributors are given a platform to voice their opinion with regards to mileston completion. When a developer completes a milestone, all contributors are notified and must approve/disapprove the current progress. The result of this approval/disapproval process determines the release of subsequent funding from the project contract to the developer. In the case of one or more failed milestones, this may open the door to a refunding of the project.
+Blockhub users can review project proposals and contribute cryptocurrency to projects that they support; in doing so, they are considered "contributors" of that particular project. As a contributor, they are entitled to rewards/incentives, as outlined in their particular contribution tier, at the successful completion of the project. Furthermore, contributors are given a platform to voice their opinion with regards to milestone completion. When a developer completes a milestone, all contributors are notified and must approve/disapprove the current progress. The result of this approval/disapproval process determines the release of subsequent funding from the project contract to the developer. In the case of one or more failed milestones, this may open the door to a refunding of the project.
 
 ### API Proposal
 
