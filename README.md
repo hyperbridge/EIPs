@@ -6,7 +6,7 @@
 
   <br>
 
-  [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Hyperbridge/Lobby) [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/hyperbridge/blockhub-web-client/blob/master/LICENSE.md)
+  [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Hyperbridge/Lobby) [![license](https://img.shields.io/hexpm/l/plug.svg)](https://github.com/hyperbridge/blockhub-web-client/blob/master/LICENSE.md)
 
   <h1><code>EIPs</code> (Ecosystem Improvement Proposals)</h1>
 </div>
